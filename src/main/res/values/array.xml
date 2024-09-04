@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- res/values/arrays.xml -->
+<resources>
+<string-array name="reasons_array">
+    <item>Reasons</item>
+    <item>Medical</item>
+    <item>Sports</item>
+    <item>Event</item>
+    <!-- Add other reasons as needed -->
+</string-array>
+
+<string-array name="class_coordinators_array">
+    <item>Dr.Raviraj.P</item>
+    <item>Mrs.Harshitha</item>
+    <item>Mrs.Rumana Furnadis</item>
+    <item>Mr.Rajath</item>
+    <!-- Add other class coordinators as needed -->
+</string-array>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Benefit of Attendence</string>
+    <string-array name="reasons">
+        <item>Reasons</item>
+        <item>Medical</item>
+        <item>Sports</item>
+        <item>Event</item>
+    </string-array>
+
+    <string-array name="class_coordinator_options">
+        <item>Class coordinator</item>
+        <item>Dr.Raviraj.P</item>
+        <item>Mrs.Harshitha</item>
+        <item>Mrs.Rumana Firdaus</item>
+        <item>Mr.Rajath</item>
+    </string-array>
+    <integer-array name="class_coordinator_icons">
+        <item>@drawable/baseline_manage_accounts_24</item>
+    </integer-array>
+
+    <string name="class_coordinator_prompt">Class Coordinator</string>
+</resources>
